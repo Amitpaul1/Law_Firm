@@ -1,0 +1,25 @@
+{
+	"name": "Pal Law Firms,Inc",
+	"version": "1.0",
+	"description": "Get metadata of a package from the npm registry",
+	"license": "MIT",
+	"repository": "sindresorhus/package-json",
+	"author": {
+		"name": "Amit Paul",
+		"email": "chondro.pal@gmail.com",
+		"url": "lawfirm.palcreativeltd.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	
+	"files": [
+		"index.php",
+		
+	],
+	"keywords": [
+		"law",
+		
+	],
+	
+}
